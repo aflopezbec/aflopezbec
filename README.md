@@ -2,7 +2,7 @@
 
 ### Android and Flutter developer
 
-I've been a software engineer for over five years.
+I've been a software engineer for over six years.
 
 My greatest experience is in native Android development, where I have been developing applications with Kotlin for more than three years. In the last year, I have also developed mobile and web applications with flutter.
 
