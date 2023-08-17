@@ -4,7 +4,7 @@
 
 I've been a software engineer for over six years.
 
-My greatest experience is in native Android development, where I have been developing applications with Kotlin for more than three years. In the last two years, I have also developed mobile and web applications with flutter.
+My greatest experience is in native Android development, where I have been developing applications with Kotlin for more than three years. In the last three years, I have also developed mobile and web applications with flutter.
 
 I have participated in the development of more than ten published applications of the different Android and iOS stores. Where I've been leading multidisciplinary teams of up to ten people.
 
