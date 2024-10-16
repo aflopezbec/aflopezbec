@@ -1,14 +1,14 @@
 ### 👋 Hi, My name is Andrés López
 
-### Android and Flutter developer
+### Flutter developer | Android Developer | iOS Developer
 
-I've been a software engineer for over six years.
+🎯 Software Engineer | Mobile Developer | 7+ years of experience | Technical leadership and mentorship
 
-My greatest experience is in native Android development, where I have been developing applications with Kotlin for more than three years. In the last three years, I have also developed mobile and web applications with flutter.
+Software Engineer with extensive experience in developing technology products, particularly mobile applications for iOS and Android. I specialize in technologies such as Flutter, native Android (Kotlin, Java), and Swift, but I am also capable of contributing at any stage of a product's lifecycle, from concept and design to implementation and maintenance.
 
-I have participated in the development of more than ten published applications of the different Android and iOS stores. Where I've been leading multidisciplinary teams of up to ten people.
+I have successfully led projects from inception to deployment, collaborating on defining user stories, designing robust architectures, and delivering continuous improvements to optimize the user experience. Additionally, I have experience managing multidisciplinary teams and fostering collaboration, allowing for the efficient resolution of complex problems. 
 
-Also, I worked with python and Django to build the rest of the API for two years.
+I am enthusiastic about strengthening the team's skills through mentoring, providing technical guidance and support in key areas such as communication, teamwork, and decision-making. This enhances their growth and performance as software developers while simultaneously improving overall productivity, which also contributes to my own professional development.
 
 
 ## Skills:
